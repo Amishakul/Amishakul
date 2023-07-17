@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Amisha Kulkarni
-- 🌱 I'm a JavaScript MERN and Java Full Stack Web Developer. 
+- 🌱 I'm a JavaScript MERN and Java Full Stack Developer. 
 - 💞️ I’m looking to collaborate on ... Web Development and Java projects (front-end and Back-end) 
 - 📫 How to reach me ... cm.a.56.amisha.kulkarni@gmail.com
 
