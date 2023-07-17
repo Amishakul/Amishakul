@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Amishakul
-- 👀 I’m interested in ... C Programming, Java, Python
-- 🌱 I’m currently learning ... Python, java
-- 💞️ I’m looking to collaborate on ... Web Development Projects (front end) 
-- 📫 How to reach me ... awadhutkavita@gmail.com 
+- 👋 Hi, I’m @Amisha Kulkarni
+- 🌱 I'm a JavaScript MERN and Java Full Stack Web Developer. 
+- 💞️ I’m looking to collaborate on ... Web Development and Java projects (front-end and Back-end) 
+- 📫 How to reach me ... cm.a.56.amisha.kulkarni@gmail.com
 
 <!---
 Amishakul/Amishakul is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
