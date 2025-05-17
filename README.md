@@ -43,7 +43,7 @@
 🔐 Firebase auth | 🤖 Gemini API | ♻️ Custom hooks | ⚡ Optimized performance
 
 #### 🔹 [FreeTube](https://thriving-kleicha-3fd773.netlify.app/)
-> A minimal YouTube clone  
+> A Video Streaming Platform
 🔍 Live search with debouncing | 💬 Nested comments | 🚀 Real-time chat
 
 #### 🔹 [GestureFlow](https://github.com/Amishakul/GestureFlow-enabling-all-ablitiles-Machine-Learning)
