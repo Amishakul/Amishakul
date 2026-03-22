@@ -41,11 +41,11 @@
 
 ### 🚀 Featured Projects
 
-#### 🔹 [NetflixGPT]
+#### 🔹 NetflixGPT
 > Movie recommendation platform with AI support  
 🔐 Firebase auth | 🤖 Gemini API | ♻️ Custom hooks | ⚡ Optimized performance
 
-#### 🔹 [FreeTube]
+#### 🔹 FreeTube
 > A Video Streaming Platform
 🔍 Live search with debouncing | 💬 Nested comments | 🚀 Real-time chat
 
