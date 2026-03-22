@@ -49,7 +49,7 @@
 > A Video Streaming Platform
 🔍 Live search with debouncing | 💬 Nested comments | 🚀 Real-time chat
 
-#### 🔹 [GestureFlow](https://github.com/Amishakul/GestureFlow-enabling-all-ablitiles-Machine-Learning)
+#### 🔹 GestureFlow
 > Hands-free computer control for the physically challenged  
 🧠 Built with Python, OpenCV, ML | 🎯 83.5% model accuracy  
 
