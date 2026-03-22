@@ -41,24 +41,17 @@
 
 ### 🚀 Featured Projects
 
-#### 🔹 [NetflixGPT](https://deft-cajeta-8eaa45.netlify.app/)
+#### 🔹 [NetflixGPT]
 > Movie recommendation platform with AI support  
 🔐 Firebase auth | 🤖 Gemini API | ♻️ Custom hooks | ⚡ Optimized performance
 
-#### 🔹 [FreeTube](https://thriving-kleicha-3fd773.netlify.app/)
+#### 🔹 [FreeTube]
 > A Video Streaming Platform
 🔍 Live search with debouncing | 💬 Nested comments | 🚀 Real-time chat
 
 #### 🔹 [GestureFlow](https://github.com/Amishakul/GestureFlow-enabling-all-ablitiles-Machine-Learning)
 > Hands-free computer control for the physically challenged  
 🧠 Built with Python, OpenCV, ML | 🎯 83.5% model accuracy  
-📃 Published in *Technische Sicherheit*, 2024
-
----
-
-### 📌 Highlights
-
-- 📰 **Research Published**: *GestureFlow – Enabling All Abilities* (2024)  
 
 ---
 
