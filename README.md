@@ -41,7 +41,7 @@
 
 ### 🚀 Featured Projects
 
-#### 🔹 NetflixGPT
+#### 🔹 MovieGem
 > Movie recommendation platform with AI support  
 🔐 Firebase auth | 🤖 Gemini API | ♻️ Custom hooks | ⚡ Optimized performance
 
